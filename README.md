@@ -1,7 +1,10 @@
 # MyChat
 
-## npx create-expo-app -nama folder anda-
+## New Project
+git clone https://github.com/saragiha/MyChat.git
+
 npm install & npm install expo-document-picker
+
 npx expo start
 
 ## open terminal
